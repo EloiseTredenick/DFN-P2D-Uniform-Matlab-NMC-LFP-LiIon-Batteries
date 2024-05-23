@@ -1,6 +1,10 @@
 
 # Code for NMC and LFP DFN Models
 
+Reference: E. C. Tredenick, S. Wheeler, R. Drummond et al. A multilayer Doyle-Fuller-Newman model to optimise the rate performance of bilayer cathodes in Li ion batteries, 14 May 2024, PREPRINT (Version 5) available at Research Square [https://doi.org/10.21203/rs.3.rs-3906430/v5]
+
+https://www.researchsquare.com/article/rs-3906430/v5
+
 **Please read the license details and copyright information below before downloading and using this data**
 
 ******************************************************************************************
