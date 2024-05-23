@@ -1,6 +1,8 @@
 
 # Code for NMC and LFP DFN Models
 
+Matlab Code to simulate the DFN (Doyle-Fuller-Newman) or P2D (psuedo-2D) model for both NMC622 and LFP chemistries for lithium ion batteries.
+
 Reference: E. C. Tredenick, S. Wheeler, R. Drummond et al. A multilayer Doyle-Fuller-Newman model to optimise the rate performance of bilayer cathodes in Li ion batteries, 14 May 2024, PREPRINT (Version 5) available at Research Square [https://doi.org/10.21203/rs.3.rs-3906430/v5]
 
 https://www.researchsquare.com/article/rs-3906430/v5
